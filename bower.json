@@ -2,7 +2,7 @@
   "name": "vientos-iconset",
   "main": "vientos-iconset.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
-    "iron-iconset-svg": "^1.1.0"
+    "polymer": "Polymer/polymer#^2.0.0",
+    "iron-iconset-svg": "^2.0.1"
   }
 }
